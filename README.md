@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rithikasri-code/local-workspace"><img src="https://img.shields.io/badge/Standard-AGENTS.md-a855f7?style=flat-square&logo=markdown&logoColor=white&labelColor=0f172a" alt="AGENTS.md" /></a>
+  <a href="https://github.com/Rithikasri-code/workspace"><img src="https://img.shields.io/badge/Standard-AGENTS.md-a855f7?style=flat-square&logo=markdown&logoColor=white&labelColor=0f172a" alt="AGENTS.md" /></a>
   <img src="https://img.shields.io/badge/Storage-Plain%20Markdown-6366f1?style=flat-square&labelColor=0f172a" alt="Markdown Store" />
   <img src="https://img.shields.io/badge/Browser%20API-File%20System%20Access-38bdf8?style=flat-square&labelColor=0f172a" alt="File System Access" />
   <img src="https://img.shields.io/badge/Privacy-100%25%20Local--First-22c55e?style=flat-square&labelColor=0f172a" alt="Local-First" />
@@ -89,7 +89,7 @@ Open any Chromium-based browser (Chrome, Edge, Brave, Arc) and load [`index.html
 python scripts/app.py
 ```
 1. Click **Open Folder**.
-2. Select your `local-workspace` repository root.
+2. Select your `workspace` repository root.
 3. Grant read/write permission to begin real-time tracking.
 
 ### Option 2: Connecting Your AI Agent
